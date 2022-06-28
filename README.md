@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-# This project created by Javohir
+# This project created with Reactjs by Бандит
 
 In the project directory, you can run:
 
